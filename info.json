@@ -1,0 +1,10 @@
+{
+  "name": "intermediate-module",
+  "version": "0.1.0",
+  "title": "Intermediate Modules",
+  "author": "RedRafe",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "homepage": "https://mods.factorio.com/mod/intermediate-module",
+  "description": "Adds intermediate products to modules in order to productivity them."
+}
